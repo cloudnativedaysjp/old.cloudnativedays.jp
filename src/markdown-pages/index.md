@@ -24,3 +24,5 @@ See You Next Year!👋<br>
 - [CloudNative Days Kansai 2019](https://cloudnativedays.jp/cndk2019/) @ Congrès Convention Center, November 27-28, 2019
 
 If you are interested sponsor our event or hosting a co-located event(training/workshop, meetup), please contact for us!
+
+THIS IS A TEST
