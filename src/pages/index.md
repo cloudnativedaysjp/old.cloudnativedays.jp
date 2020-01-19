@@ -2,14 +2,12 @@
 templateKey: index-page
 title: CloudNative Days
 image: /img/home-jumbotron.jpg
-heading: foobars
-subheading: Subheader
+heading: Events
+subheading: CloudNative Days
 mainpitch:
   title: What's CloudNative Days
   description: >
-    CloudNative Daysはあああ
-    ほげほげほげ
-    ふがふがふが
+    CloudNative Daysは、クラウドネイティブ時代を牽引する国内最大級の祭典です。クラウドネイティブを指向する“クラウドネイティブジャーニー”を支援するために、あらゆる業界におけるビジネスユーザーから開発者まで、幅広い来場者のニーズにお応えする充実したプログラムを提供します。
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
