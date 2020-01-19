@@ -1,6 +1,6 @@
 ---
 templateKey: 'events-page'
-path: /products
+path: /events
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
