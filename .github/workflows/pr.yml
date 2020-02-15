@@ -23,7 +23,7 @@ jobs:
 
     - name: Build
       run: |
-        ls -la theme
+        ls -la themes/
         hugo
         ls -la docs/
 
