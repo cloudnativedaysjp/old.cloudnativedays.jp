@@ -7,14 +7,3 @@ publishDir = "docs"
 
 [params]
     customCSS = ["/css/custom.css"]
-
-[[deployment.targets]]
-# An arbitrary name for this target.
-name = "mydeployment"
-# The Go Cloud Development Kit URL to deploy to. Examples:
-# GCS; see https://gocloud.dev/howto/blob/#gcs
-# URL = "gs://<Bucket Name>"
-
-# S3; see https://gocloud.dev/howto/blob/#s3
-# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-# URL = "s3://<Bucket Name>?region=<AWS region>"
