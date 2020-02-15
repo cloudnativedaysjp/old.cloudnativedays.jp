@@ -8,6 +8,10 @@ body {
 #mainNav {
   background-color: #216A9C;
 }
+
+#mainNav.navbar-shrink {
+  background-color: #216A9C;
+}
  
 .improve-contrast-box {
   background: none;
