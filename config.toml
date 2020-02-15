@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CloudNative Days"
+theme = "hugograyscale"
+
+publishDir = "docs"
+
+[params]
+    customCSS = ["/css/custom.css"]

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CloudNative Days</title>
+    <link>http://example.org/</link>
+    <description>Recent content on CloudNative Days</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benefit 1</title>
+      <link>http://example.org/benefits/benefit-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/benefit-1/</guid>
+      <description>Here&amp;rsquo;s the first reason why this new product will benefit you. Words adding to the product description will help.</description>
+    </item>
+    
+    <item>
+      <title>Benefit 2</title>
+      <link>http://example.org/benefits/benefit-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/benefit-2/</guid>
+      <description>Another benefit. Really tell people why they NEED to get this thing. Why is it better?</description>
+    </item>
+    
+    <item>
+      <title>Sign Up Today</title>
+      <link>http://example.org/benefits/benefit-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/benefit-3/</guid>
+      <description>Provide a call-to-action (CTA) to Sign up with the MailChimp form. If you&amp;rsquo;re not using MailChimp, then this is Benefit 3.</description>
+    </item>
+    
+  </channel>
+</rss>
