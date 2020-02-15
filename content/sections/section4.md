@@ -6,7 +6,7 @@ improvecontrast: true
 
 ## Contact
 
-You can contact us on the following social medias!
+You can contact us on the following social media!
 
 {{< socialhandles >}}
     {{< twitter user="cloudnativedays" >}}
