@@ -33,7 +33,7 @@ jobs:
         CF_RESET: false
         FROM_PATH: "./docs"
         DEST_PATH: "s3://cloudnativedaysjp-website/"
-        OPTIONS: "--acl public-read"
+        OPTIONS: "--acl public-read --delete"
 
     - name: Comment succeeded
       uses: mshick/add-pr-comment@v1
