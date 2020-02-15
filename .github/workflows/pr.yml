@@ -27,6 +27,7 @@ jobs:
         AWS_REGION: "ap-northeast-1"
         FROM_PATH: "./docs"
         DEST_PATH: "s3://cloudnativedaysjp-website/"
+        OPTIONS: "--acl public-read"
 
     - name: Comment succeeded
       uses: mshick/add-pr-comment@v1
