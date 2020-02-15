@@ -22,7 +22,10 @@ jobs:
         hugo-version: '0.64.0'
 
     - name: Build
-      run: hugo
+      run: |
+        ls -la theme
+        hugo
+        ls -la docs/
 
     - name: Publish to AWS S3
       uses: opspresso/action-s3-sync@master
