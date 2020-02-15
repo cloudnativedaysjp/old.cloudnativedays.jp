@@ -35,7 +35,7 @@ jobs:
         AWS_REGION: "ap-northeast-1"
         CF_RESET: false
         FROM_PATH: "./docs"
-        DEST_PATH: "s3://cloudnativedaysjp-website/"
+        DEST_PATH: "s3://cloudnativedaysjp-website/${{ github.sha }}"
         OPTIONS: "--acl public-read --delete"
 
     - name: Comment succeeded
@@ -44,7 +44,7 @@ jobs:
       with:
         message: |
           Build succeeded!
-          Visit https://cloudnativedaysjp-website.s3-ap-northeast-1.amazonaws.com/index.html
+          Visit https://cloudnativedaysjp-website.s3-ap-northeast-1.amazonaws.com/${{ github.sha }}/index.html
         repo-token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Comment failed
