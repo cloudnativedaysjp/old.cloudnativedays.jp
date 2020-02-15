@@ -1,9 +1,12 @@
+/* CNDTロゴの青色: #216A9C*/
+/* CNDTロゴの赤色: #BE4493 */
+
 body {
-  background-color: midnightblue;
+  background-color: #216A9C;
 }
 
 #mainNav {
-  background-color: midnightblue;
+  background-color: #216A9C;
 }
  
 .improve-contrast-box {
