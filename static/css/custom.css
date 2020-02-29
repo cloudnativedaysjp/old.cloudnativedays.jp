@@ -1,13 +1,25 @@
+/* CNDTロゴの青色: #216A9C*/
+/* CNDTロゴの赤色: #BE4493 */
+
 body {
-  background-color: midnightblue;
+  background-color: #216A9C;
 }
 
 #mainNav {
-  background-color: midnightblue;
+  background-color: #216A9C;
+  text-transform: none;
+}
+
+#mainNav.navbar-shrink {
+  background-color: #216A9C;
 }
 
 .improve-contrast-box {
-  background: rgba(23, 42, 84, 0.5);
+  background: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: none;
 }
 
 .section-4 {
@@ -16,3 +28,14 @@ body {
   background-color: black;
   background-size: cover;
 }
+
+.content-section > div > div > div > div {
+  background: rgba(23, 42, 84, 0.5);
+}
+
+
+.content-section > div > div > div > div > h2 {
+  background: none;
+}
+
+
