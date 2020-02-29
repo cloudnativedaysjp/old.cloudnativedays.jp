@@ -26,6 +26,12 @@ jobs:
     - name: Build
       run: hugo
 
+    - name: copy previous event pages
+      run: |
+        cp -r ./cndf2019 ./docs/cndf2019
+        cp -r ./cndt2019 ./docs/cndt2019
+        cp -r ./cndk2019 ./docs/cndk2019
+
     - name: deploy
       uses: peaceiris/actions-gh-pages@v2.4.0
       env:
