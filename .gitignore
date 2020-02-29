@@ -1,5 +1,8 @@
 # Hugo default output directory
-/docs
+/docs/*
+!/docs/cndf2019
+!/docs/cndt2019
+!/docs/cndk2019
 
 ## OS Files
 # Windows

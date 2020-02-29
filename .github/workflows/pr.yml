@@ -27,12 +27,6 @@ jobs:
     - name: Build
       run: hugo
 
-    - name: copy previous event pages
-      run: |
-        cp -r ./cndf2019 ./docs/cndf2019
-        cp -r ./cndt2019 ./docs/cndt2019
-        cp -r ./cndk2019 ./docs/cndk2019
-
     - name: Publish to AWS S3
       uses: opspresso/action-s3-sync@master
       env:
