@@ -13,11 +13,19 @@ body {
 #mainNav.navbar-shrink {
   background-color: #216A9C;
 }
- 
+
 .improve-contrast-box {
   background: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
   text-transform: none;
+  background: rgba(23, 42, 84, 0.5);
+}
+
+.section-4 {
+  color: white;
+  background: url("../img/section4-bg.jpg") no-repeat center center scroll;
+  background-color: black;
+  background-size: cover;
 }
