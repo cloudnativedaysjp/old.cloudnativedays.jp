@@ -3,7 +3,7 @@ title: "About"
 weight: 2
 ---
 
-## About CloudNativeDays
+## About CloudNative Days
 
 CloudNative Days はコミュニティ、企業、技術者が一同に介し、クラウドネイティブムーブメントを牽引することを目的としたテックカンファレンスです。
 
