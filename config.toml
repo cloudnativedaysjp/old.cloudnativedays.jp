@@ -8,3 +8,4 @@ publishDir = "docs"
 [params]
     customCSS = ["css/custom.css"]
     images = ["https://cloudnativedays.jp/img/cndtop.jpg"]
+    
