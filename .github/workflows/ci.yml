@@ -26,6 +26,9 @@ jobs:
     - name: Build
       run: hugo
 
+    - name: add CNAME
+      run: echo cloudnativedays.jp > docs/CNAME
+
     - name: deploy
       uses: peaceiris/actions-gh-pages@v2.4.0
       env:
