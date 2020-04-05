@@ -14,5 +14,6 @@ CI/CDはGitHub Actionsを使っています。PRを作成するとS3にプレビ
 
 新しくイベント用のページを作る場合、リポジトリを作成してGitHubPagesの設定を行ってください。ページ用のサブドメインについて[GitHubPagesへのAレコードを作成](https://help.github.com/ja/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)し、リポジトリのGitHubPages設定でカスタムドメインにサブドメインを入力すればOKです。DNSの設定はImpressの技術部に依頼する必要があります。cloudnativedaysのSlackで依頼してください。
 
+# Links
 
-
+- [CNDT2020](https://github.com/cloudnativedaysjp/cndt2020.cloudnativedays.jp)
