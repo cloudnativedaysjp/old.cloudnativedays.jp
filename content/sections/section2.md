@@ -6,7 +6,7 @@ improvecontrast: true
 
 ## Upcoming events
 
-CloudNative Days Tokyo 2020 @ Hotel Gajoen Tokyo, September 8-9, 2020
+[CloudNative Days Tokyo 2020](https://cndt2020.cloudnativedays.jp/) @ Hotel Gajoen Tokyo, September 8-9, 2020
 
 CloudNative Days Fukuoka 2020 @ ACROS Fukuoka, November 26, 2020
 
