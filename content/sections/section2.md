@@ -6,7 +6,7 @@ improvecontrast: true
 
 ## Upcoming events
 
-[CloudNative Days Tokyo 2020](https://cndt2020.cloudnativedays.jp/) @ Online, September 8-9, 2020
+[CloudNative Days Spring 2021 ONLINE](https://event.cloudnativedays.jp/cndo2021) @ Online, March 11-12, 2021
 
 
 
