@@ -6,7 +6,7 @@ improvecontrast: true
 
 ## Upcoming events
 
-[CloudNative Days Spring 2021 ONLINE](https://event.cloudnativedays.jp/cndo2021) @ Online, March 11-12, 2021
+[CI/CD Conference 2021 by CloudNative Days](https://event.cloudnativedays.jp/cicd2021) @ Online, Sep 03, 2021
 
 
 
